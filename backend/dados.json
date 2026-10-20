@@ -1,0 +1,322 @@
+[
+  {
+    "sigla": "PIS",
+    "nome": "Pißwasser",
+    "descricao": "A cerveja alemã que construiu a América. Promovendo a paz mundial através de ressacas terríveis.",
+    "preco_atual": 15.5,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 14.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 14.2
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 14.8
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 14.5
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 15.1
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 15.5
+      }
+    ]
+  },
+  {
+    "sigla": "AMU",
+    "nome": "Ammu-Nation",
+    "descricao": "Protegendo seus direitos constitucionais de ter um arsenal de nível militar na sua própria garagem.",
+    "preco_atual": 120.0,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 110.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 125.0
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 105.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 115.0
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 122.0
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 120.0
+      }
+    ]
+  },
+  {
+    "sigla": "LFI",
+    "nome": "Lifeinvader",
+    "descricao": "A rede social que sabe mais sobre você do que você mesmo. Conectando pessoas e vendendo seus dados.",
+    "preco_atual": 45.2,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 49.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 48.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 47.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 46.2
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 45.5
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 45.2
+      }
+    ]
+  },
+  {
+    "sigla": "FLC",
+    "nome": "Fleeca",
+    "descricao": "A rede de bancos que cobra taxas sobre o ar que você respira dentro das agências.",
+    "preco_atual": 85.0,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 80.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 81.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 82.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 83.5
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 84.8
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 85.0
+      }
+    ]
+  },
+  {
+    "sigla": "MAZ",
+    "nome": "Maze Bank",
+    "descricao": "Seu dinheiro no topo do mundo. Literalmente, construímos o maior prédio de Los Santos com as suas taxas de manutenção.",
+    "preco_atual": 250.0,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 248.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 245.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 249.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 248.5
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 249.8
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 250.0
+      }
+    ]
+  },
+  {
+    "sigla": "GOP",
+    "nome": "GoPostal",
+    "descricao": "Entrega rápida de encomendas. Se o pacote chegar quebrado, a culpa é sua.",
+    "preco_atual": 12.3,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 11.5
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 11.8
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 12.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 11.9
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 12.1
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 12.3
+      }
+    ]
+  },
+  {
+    "sigla": "VAG",
+    "nome": "Vangelico",
+    "descricao": "Joalheria fina. O lugar perfeito para comprar um presente caro... ou para planejar um grande assalto.",
+    "preco_atual": 180.5,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 190.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 188.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 185.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 182.5
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 181.0
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 180.5
+      }
+    ]
+  },
+  {
+    "sigla": "AUG",
+    "nome": "August Insurance",
+    "descricao": "Seguradora líder de mercado. Especializada em não pagar a indenização quando o seu carro é explodido por um tanque.",
+    "preco_atual": 42.1,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 40.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 41.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 40.5
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 41.0
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 41.8
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 42.1
+      }
+    ]
+  },
+  {
+    "sigla": "ECL",
+    "nome": "eCola",
+    "descricao": "Deliciosamente radioativa. A bebida gaseificada que dissolve os dentes e levanta o espírito.",
+    "preco_atual": 35.8,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 40.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 39.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 38.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 38.2
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 36.5
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 35.8
+      }
+    ]
+  },
+  {
+    "sigla": "MUK",
+    "nome": "Mors Mutual Insurance",
+    "descricao": "Com a Mors, o seu veículo está protegido. Nós esperamos que você não se importe com as taxas de franquia.",
+    "preco_atual": 95.0,
+    "historico": [
+      {
+        "minutos_atras": 180,
+        "preco": 92.0
+      },
+      {
+        "minutos_atras": 150,
+        "preco": 93.5
+      },
+      {
+        "minutos_atras": 120,
+        "preco": 94.0
+      },
+      {
+        "minutos_atras": 90,
+        "preco": 94.5
+      },
+      {
+        "minutos_atras": 60,
+        "preco": 94.8
+      },
+      {
+        "minutos_atras": 30,
+        "preco": 95.0
+      }
+    ]
+  }
+]
